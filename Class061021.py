@@ -5,4 +5,6 @@ Created on Wed Oct  6 10:29:48 2021
 
 @author: cachopereztinoco
 """
+def func(a,b):
+    return a + b 
 
