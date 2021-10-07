@@ -8,9 +8,10 @@ Created on Wed Oct  6 10:29:48 2021
 def func(a,b):
     return a + b
 
-    def func2(a,b):
+def func2(a,b):
         return a * b
 
-        
+def func3 (a,b):
+       return a - b     
         
 
